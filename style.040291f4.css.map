@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KAEE,eACF,CACA,UAHE,WAMF,CAHA,KACE,QAEF,CACA,OACE,UAAW,CACX,WACF","file":"style.040291f4.css","sourceRoot":"..\\src","sourcesContent":["html {\n  height: 100%;\n  overflow: hidden; \n}\nbody {\n  margin: 0px;\n  height: 100%;\n}\ncanvas {\n  width: 100%;\n  height: 100%;\n}"]}
